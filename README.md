@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=Pat396)](https://github.com/anuraghazra/github-readme-stats&count_private=true&hide=stars,issues)
+
 
 
 
