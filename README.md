@@ -2,6 +2,8 @@
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=Pat396)](https://github.com/anuraghazra/github-readme-stats&count_private&hide=stars,issues)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pat396&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Pat396/Pat396** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
